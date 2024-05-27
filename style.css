@@ -1,0 +1,18 @@
+body { 
+    background-color: darkmagenta; 
+}
+
+#main-div {
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;;
+}
+
+
+#list-item {
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+}
